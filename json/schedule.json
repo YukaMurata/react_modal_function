@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "serviceType": 2,
+      "isRegistered": 1
+    },
+    {
+      "serviceType": 3,
+      "isRegistered": 0
+    },
+    {
+      "serviceType": 4,
+      "isRegistered": 0
+    },
+    {
+      "serviceType": 5,
+      "isRegistered": 0
+    }
+  ]
+}
